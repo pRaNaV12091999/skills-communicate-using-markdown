@@ -15,3 +15,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myvar="hello world"
 ```
+
+- [x] - List syantax is required
+- [x] - This issue is completed 
+- [ ] - This issue is not completed
